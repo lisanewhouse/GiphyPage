@@ -1,0 +1,38 @@
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+.container {
+  overflow: hidden;
+  width: 100%;
+  margin: 0 auto;
+}
+
+button {
+	background-color: #008CBA;
+	padding: 10px;
+	border-radius: 5px;
+	margin: 3px;
+	border: none;
+	color: #e7e7e7;
+}
+
+#buttons {
+	background-color: #e7e7e7;
+	padding: 50px;
+}
+
+#add-animal {
+	background-color: #4CAF50;
+	padding: 10px;
+	border-radius: 5px;
+	margin: 3px;
+	border: none;
+	color: #e7e7e7;
+}
+
+.item {
+	float: left;
+	margin: 50px;
+}
